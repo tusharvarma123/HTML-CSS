@@ -1,0 +1,64 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+.pimg1 {
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/653/709/137/animals-2560x1440-jaguar-jaguar-wallpaper-preview.jpg);
+  min-height: 100%;
+}
+.pimg2 {
+  background-image: url(https://images.hdqwalls.com/download/jaguar-animal-md-3840x2160.jpg);
+  min-height: 400px;
+}
+.tiger3 {
+  background-image: url(https://wallpapercave.com/dwp1x/wp5210410.jpg);
+  min-height: 400px;
+}
+.pimg1,
+.pimg2,
+.tig3 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.textBg {
+  color: #fff;
+  padding: 20px;
+
+}
+.textBg:hover{
+    color: hsl(0, 98%, 49%);
+    text-shadow: 10px;
+}
+
+.section {
+  padding: 50px 80px;
+  text-align: center;
+}
+.section-light {
+  background-color: #f4f4f4;
+  color: #666;
+}
+.section-dark {
+    background-color: #2876c3;
+    color: #ddd;
+  }

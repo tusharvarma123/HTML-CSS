@@ -1,0 +1,48 @@
+.container {
+    background-color: #8ede98;
+    min-height: 100vh;
+    border: 10px solid #d9d9da;
+  }
+  .image_container
+img {
+  width: 500px;
+  height: 500px;
+  border-radius: 1000%;
+}
+td{
+  color: #1111da;
+}
+.content {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .about_section p {
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+    text-align: justify;
+  }
+  table{
+    width: 100px;
+  }
+  h2{
+    font-size: 24px;
+    cursor: pointer;
+    transition: 0.2s;
+  
+  }
+  h2:hover{
+      color: hsl(340, 88%, 63%);
+      text-shadow: 10px;
+  }
+  fieldset{
+    background-color: rgb(50, 227, 118);
+  }
+  table{
+    background-color: rgb(207, 222, 238);
+  }
+  h1:hover{
+    color: rgba(26, 11, 232, 0.918);
+    text-shadow: 10px;
+    
+  }

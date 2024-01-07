@@ -1,0 +1,27 @@
+*{ padding: 0%;
+    margin: 0;
+    box-sizing: border;
+}
+ul{
+    list-style-type: none;
+}
+body{
+    background-color: hsl(47, 88%, 63%);
+    padding: 5rem 1rem;
+}
+.cotainer{
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 0px black;
+}
+.cotainer div img{
+    width: 100%;
+}
+.attribution{
+    font-size: 11px;
+    text-align: center;
+}
+.attribution{
+    color: hsl(228, 45, 44);
+}
